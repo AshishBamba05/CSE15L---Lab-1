@@ -8,7 +8,7 @@ The working directory is initially /home/lecture1/ when I ran ALL the commands b
 
 When we pass in no argument for the cd command, the directory doesn't change, and hence, nothing is printed (NO ERROR!)
 
-<img width="195" alt="Screen Shot 2024-01-13 at 4 02 32 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/b849d395-7383-4934-a2f5-8c628266d22e">
+![Image](cd_blankargs)
 
 
 When we pass in no argument for the ls command, it will just list the folders in the current working directory. As shown in the first picture, the main folder in /home is lecture1. (NO ERROR!)
