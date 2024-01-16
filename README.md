@@ -46,17 +46,17 @@ When we pass in no argument for the cat command, it by default reads from the te
    If we pass in /home/lecture1/README as argument for cd command, an error message will be produced. This is because we can't change the directory to a single file. 
 
    
-  <img width="478" alt="Screen Shot 2024-01-16 at 12 33 39 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/cfdad4b0-c4f8-4f11-b20c-4464b8e7086f">
+![Image](cd_fileArgs)
 
 
    If we pass in /home/lecture1/README as argument for the ls command, it will just read that file name and display the absolute path. (NO ERROR!)
 
-  <img width="396" alt="Screen Shot 2024-01-16 at 12 29 54 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/9e253170-6513-49af-8f21-8a7ce37f701e">
+![Image](ls_fileArgs)
   
 
   If we pass in /home/lecture1/README as argument for the cat command, we will receive information about the README file. (NO ERROR!)
 
-<img width="416" alt="Screen Shot 2024-01-16 at 1 21 59 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/4f4d2443-406d-40bf-9334-bf9da2bc21f4">
+![Image](cat_fileArgs)
 
 
 
