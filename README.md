@@ -18,7 +18,7 @@ When we pass in no argument for the ls command, it will just list the folders in
 
 When we pass in no argument for the cat command, it by default reads from the terminal and so nothing is printed. (NO ERROR!)
 
-![Image](cat_blankargs)
+`![Image](cat_blankargs)`
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
