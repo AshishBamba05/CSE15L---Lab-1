@@ -49,15 +49,14 @@ When we pass in no argument for the cat command, it by default reads from the te
   <img width="478" alt="Screen Shot 2024-01-16 at 12 33 39 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/cfdad4b0-c4f8-4f11-b20c-4464b8e7086f">
 
 
-   If we pass in /home/lecture1/README as argument for the ls command, it will just read that file name and display that. (NO ERROR!)
+   If we pass in /home/lecture1/README as argument for the ls command, it will just read that file name and display the absolute path. (NO ERROR!)
 
   <img width="396" alt="Screen Shot 2024-01-16 at 12 29 54 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/9e253170-6513-49af-8f21-8a7ce37f701e">
   
 
   If we pass in /home/lecture1/README as argument for the cat command, we will receive information about the README file. (NO ERROR!)
-  
-  <img width="408" alt="Screen Shot 2024-01-16 at 12 51 19 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/2bf56339-97a7-4075-aaad-ac69b93a4689">
 
+<img width="416" alt="Screen Shot 2024-01-16 at 1 21 59 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/4f4d2443-406d-40bf-9334-bf9da2bc21f4">
 
 
 
