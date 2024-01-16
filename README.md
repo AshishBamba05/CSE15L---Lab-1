@@ -13,12 +13,12 @@ When we pass in no argument for the cd command, the directory doesn't change, an
 
 When we pass in no argument for the ls command, it will just list the folders in the current working directory. As shown in the first picture, the main folder in /home is lecture1. (NO ERROR!)
 
-<img width="207" alt="Screen Shot 2024-01-13 at 4 13 08 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/e80a846f-5075-48ac-a80b-9825fd14099b">
+![Image](ls_blankargs)
 
 
 When we pass in no argument for the cat command, it by default reads from the terminal and so nothing is printed. (NO ERROR!)
 
-<img width="226" alt="Screen Shot 2024-01-14 at 1 05 28 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/6378777a-4047-498c-a2f7-73dcfb7a397f">
+![Image](cat_blankargs)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
