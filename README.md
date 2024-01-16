@@ -1,6 +1,6 @@
 
 <img width="222" alt="Screen Shot 2024-01-13 at 4 02 07 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/fe3d9957-b7af-4ef8-a056-1a56eb9a24bc">
-The working directory is initially /home/lecture1/ when I ran all the commands below.
+The working directory is initially /home/lecture1/ when I ran ALL the commands below.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ When we pass in no argument for the cat command, it by default reads from the te
 <img width="422" alt="Screen Shot 2024-01-16 at 12 44 22 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/71d53097-7311-463d-af37-814c5e6b96d1">
 
 
-  If we pass in /home/lecture1/messages/ as argument for cat command, an error message will be produced. THe cat command is designed to read a file or file interface, so using the directory as an argument will result in an error message
+  If we pass in /home/lecture1/messages/ as argument for cat command, an error message will be produced. The cat command is designed to read a file or file interface, so using the directory as an argument will result in an error message
 
   <img width="737" alt="Screen Shot 2024-01-16 at 12 49 18 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/82596370-87dd-4d9a-b86b-6b1f635d1a43">
 
