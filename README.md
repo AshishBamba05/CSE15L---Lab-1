@@ -1,6 +1,6 @@
 
 <img width="222" alt="Screen Shot 2024-01-13 at 4 02 07 PM" src="https://github.com/mathcsnerd/cse15l-lab-reports/assets/153144074/fe3d9957-b7af-4ef8-a056-1a56eb9a24bc">
-The working directory is initially /home/lecture1/ when I ran ALL the commands below.
+The working directory is initially /home when I ran ALL the commands below.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
