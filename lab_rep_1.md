@@ -6,7 +6,7 @@ The working directory is initially /home when I ran ALL the commands below.
 
 1.) NO ARGUMENTS (cd, ls, cat)
 
-When we pass in no argument for the cd command, the directory doesn't change, and hence, nothing is printed (NO ERROR!)
+When we pass in no argument for the cd command, it exists outs of all the sub-directories and ends up in the main directory. In this case, we are already in the main home directory and so nothing changes, and hence, nothing is printed (NO ERROR!)
 
 ![Image](cd_blankargs)
 
